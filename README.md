@@ -5,7 +5,6 @@
 <a href ="#"><src="https://img.shields.io/amo/stars/:addonId"></a>
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-python-life-green?style=for-the-badge&logo=github)](https://github.com/python-life)
 
-[![Github](https://img.shields.io/badge/Github-python-life-green?style=for-the-badge&logo=github)](https://github.com/python-life)
+[![Github](https://img.shields.io/badge/github-python--life-green?style=for-the-badge&logo=github)](https://github.com/python-life)
 [![Instagram](https://img.shields.io/badge/IG-%40python.life-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/python.life)
